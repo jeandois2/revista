@@ -1,2 +1,2 @@
-# revista
-aaaa
+# Revista Literária
+Tradução 
